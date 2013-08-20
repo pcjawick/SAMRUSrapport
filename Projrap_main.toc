@@ -14,19 +14,19 @@
 \contentsline {section}{\numberline {4.2}Oppsummering}{9}{section.4.2}
 \contentsline {section}{\numberline {4.3}Styringsgruppen}{9}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}\nameref {sec:m_stygr}s f\IeC {\o }rste m\IeC {\o }ter}{9}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}\nameref {sec:m_stygr}s andre m\IeC {\o }te}{9}{subsection.4.3.2}
-\contentsline {section}{\numberline {4.4}Arbeidsgruppen}{9}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}\nameref {sec:m_agr}s f\IeC {\o }rste m\IeC {\o }ter}{9}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}\nameref {sec:m_agr}s andre m\IeC {\o }te}{9}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}\nameref {sec:m_agr}s tredje m\IeC {\o }te}{9}{subsection.4.4.3}
-\contentsline {subsection}{\numberline {4.4.4}\nameref {sec:m_agr}s fjerde m\IeC {\o }te}{9}{subsection.4.4.4}
-\contentsline {subsection}{\numberline {4.4.5}\nameref {sec:m_agr}s femte m\IeC {\o }te}{9}{subsection.4.4.5}
-\contentsline {subsection}{\numberline {4.4.6}\nameref {sec:m_agr}s heldagsm\IeC {\o }te}{9}{subsection.4.4.6}
-\contentsline {chapter}{\numberline {5}Diskusjon}{10}{chapter.5}
-\contentsline {section}{\numberline {5.1}St\IeC {\o }rste utfordringer for oss per i dag}{10}{section.5.1}
-\contentsline {section}{\numberline {5.2}Forslag til l\IeC {\o }sninger}{10}{section.5.2}
-\contentsline {chapter}{\numberline {6}Veien videre}{11}{chapter.6}
-\contentsline {section}{\numberline {6.1}Forslag til konkrete prosjekter}{11}{section.6.1}
-\contentsline {section}{\numberline {6.2}Prosjektgruppens anbefalinger}{11}{section.6.2}
-\contentsline {section}{\numberline {6.3}S\IeC {\o }knad om midler til videre prosjekter}{11}{section.6.3}
-\contentsline {chapter}{Kilder:}{12}{chapter*.3}
+\contentsline {subsection}{\numberline {4.3.2}\nameref {sec:m_stygr}s andre m\IeC {\o }te}{10}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Arbeidsgruppen}{11}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}\nameref {sec:m_agr}s f\IeC {\o }rste m\IeC {\o }ter}{11}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}\nameref {sec:m_agr}s andre m\IeC {\o }te}{11}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}\nameref {sec:m_agr}s tredje m\IeC {\o }te}{11}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}\nameref {sec:m_agr}s fjerde m\IeC {\o }te}{11}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}\nameref {sec:m_agr}s femte m\IeC {\o }te}{11}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}\nameref {sec:m_agr}s heldagsm\IeC {\o }te}{11}{subsection.4.4.6}
+\contentsline {chapter}{\numberline {5}Diskusjon}{12}{chapter.5}
+\contentsline {section}{\numberline {5.1}St\IeC {\o }rste utfordringer for oss per i dag}{12}{section.5.1}
+\contentsline {section}{\numberline {5.2}Forslag til l\IeC {\o }sninger}{12}{section.5.2}
+\contentsline {chapter}{\numberline {6}Veien videre}{13}{chapter.6}
+\contentsline {section}{\numberline {6.1}Forslag til konkrete prosjekter}{13}{section.6.1}
+\contentsline {section}{\numberline {6.2}Prosjektgruppens anbefalinger}{13}{section.6.2}
+\contentsline {section}{\numberline {6.3}S\IeC {\o }knad om midler til videre prosjekter}{13}{section.6.3}
+\contentsline {chapter}{Kilder:}{14}{chapter*.3}
