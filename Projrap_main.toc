@@ -25,12 +25,24 @@
 \contentsline {subsubsection}{Samhandlingsteamet i Drammen:}{14}{section*.6}
 \contentsline {subsubsection}{Fastlegenes rolle}{14}{section*.7}
 \contentsline {subsection}{\numberline {4.4.5}\nameref {sec:m_agr}s femte m\IeC {\o }te}{14}{subsection.4.4.5}
-\contentsline {subsection}{\numberline {4.4.6}\nameref {sec:m_agr}s heldagsm\IeC {\o }te}{14}{subsection.4.4.6}
-\contentsline {chapter}{\numberline {5}Diskusjon}{15}{chapter.5}
-\contentsline {section}{\numberline {5.1}St\IeC {\o }rste utfordringer for oss per i dag}{15}{section.5.1}
-\contentsline {section}{\numberline {5.2}Forslag til l\IeC {\o }sninger}{15}{section.5.2}
-\contentsline {chapter}{\numberline {6}Veien videre}{16}{chapter.6}
-\contentsline {section}{\numberline {6.1}Forslag til konkrete prosjekter}{16}{section.6.1}
-\contentsline {section}{\numberline {6.2}Prosjektgruppens anbefalinger}{16}{section.6.2}
-\contentsline {section}{\numberline {6.3}S\IeC {\o }knad om midler til videre prosjekter}{16}{section.6.3}
-\contentsline {chapter}{Kilder:}{17}{chapter*.8}
+\contentsline {subsubsection}{Forbedre ut fra dagens situasjon}{15}{section*.8}
+\contentsline {subsubsection}{Helhetlig pasientforl\IeC {\o }p}{15}{section*.9}
+\contentsline {subsubsection}{Velg \IeC {\'e}n ting...}{15}{section*.10}
+\contentsline {subsection}{\numberline {4.4.6}\nameref {sec:m_agr}s heldagsm\IeC {\o }te}{16}{subsection.4.4.6}
+\contentsline {chapter}{\numberline {5}Diskusjon}{17}{chapter.5}
+\contentsline {section}{\numberline {5.1}St\IeC {\o }rste utfordringer for oss per i dag}{17}{section.5.1}
+\contentsline {section}{\numberline {5.2}Forslag til l\IeC {\o }sninger}{17}{section.5.2}
+\contentsline {chapter}{\numberline {6}Veien videre}{18}{chapter.6}
+\contentsline {section}{\numberline {6.1}Forslag til konkrete prosjekter}{18}{section.6.1}
+\contentsline {subsubsection}{Checkware}{18}{section*.11}
+\contentsline {subsubsection}{Samhandlingsteam Drammen-Lier og DPS}{18}{section*.12}
+\contentsline {subsubsection}{Nytt prosjekt i regi av Kongsberg DPS, prosjektleder Sille Kvam}{18}{section*.13}
+\contentsline {subsubsection}{Boligsosialt arbeid i Nedre Eiker}{18}{section*.14}
+\contentsline {subsubsection}{Systemeatisk arbeid med midler fra helsedirektoratet}{18}{section*.15}
+\contentsline {subsubsection}{Psykolog i Kommunen(Nedre Eiker)}{18}{section*.16}
+\contentsline {section}{\numberline {6.2}Prosjektgruppens anbefalinger}{18}{section.6.2}
+\contentsline {section}{\numberline {6.3}S\IeC {\o }knad om midler til videre prosjekter}{18}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Midler til psykolog i kommunene}{19}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Midler til iverksetting av ROP tiltak}{19}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Midler til oppf\IeC {\o }lging av ROP tiltak}{19}{subsection.6.3.3}
+\contentsline {chapter}{Kilder:}{20}{chapter*.17}
