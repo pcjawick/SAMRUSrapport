@@ -55,10 +55,10 @@
 \contentsline {subsubsection}{Nytt prosjekt i regi av Kongsberg DPS, prosjektleder Sille Kvam}{21}{section*.29}
 \contentsline {subsubsection}{Boligsosialt arbeid i Nedre- og \IeC {\O }vre Eiker}{21}{section*.30}
 \contentsline {subsubsection}{Systemeatisk arbeid med midler fra helsedirektoratet}{21}{section*.31}
-\contentsline {subsubsection}{Psykolog i Kommunen(Nedre Eiker)}{21}{section*.32}
-\contentsline {section}{\numberline {6.2}Prosjektgruppens anbefalinger}{21}{section.6.2}
-\contentsline {section}{\numberline {6.3}S\IeC {\o }knad om midler til videre prosjekter}{21}{section.6.3}
+\contentsline {subsubsection}{Psykolog i Kommunen(Nedre Eiker)}{22}{section*.32}
+\contentsline {section}{\numberline {6.2}Prosjektgruppens anbefalinger}{22}{section.6.2}
+\contentsline {section}{\numberline {6.3}S\IeC {\o }knad om midler til videre prosjekter}{22}{section.6.3}
 \contentsline {subsection}{\numberline {6.3.1}Midler til psykolog i kommunene}{22}{subsection.6.3.1}
 \contentsline {subsection}{\numberline {6.3.2}Midler til iverksetting av ROP tiltak}{22}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Midler til oppf\IeC {\o }lging av ROP tiltak}{22}{subsection.6.3.3}
-\contentsline {chapter}{Kilder:}{23}{chapter*.33}
+\contentsline {subsection}{\numberline {6.3.3}Midler til oppf\IeC {\o }lging av ROP tiltak}{23}{subsection.6.3.3}
+\contentsline {chapter}{Kilder:}{24}{chapter*.33}
