@@ -76,13 +76,13 @@
 \contentsline {section}{\numberline {6.1}Forslag til konkrete prosjekter}{23}{section.6.1}
 \contentsline {subsubsection}{Checkware}{23}{subsubsection*.49}
 \contentsline {subsubsection}{Samhandlingsteam Drammen-Lier og DPS}{23}{subsubsection*.50}
-\contentsline {subsubsection}{Nytt prosjekt i regi av Kongsberg DPS, prosjektleder Sille Kvam}{23}{subsubsection*.51}
-\contentsline {subsubsection}{Boligsosialt arbeid i Nedre- og \IeC {\O }vre Eiker}{23}{subsubsection*.52}
-\contentsline {subsubsection}{Systemeatisk arbeid med midler fra helsedirektoratet}{23}{subsubsection*.53}
-\contentsline {subsubsection}{Psykolog i Kommunen(Nedre Eiker)}{24}{subsubsection*.54}
+\contentsline {subsubsection}{Nytt prosjekt i regi av Kongsberg DPS, prosjektleder Sille Kvam}{23}{subsubsection*.52}
+\contentsline {subsubsection}{Boligsosialt arbeid i Nedre- og \IeC {\O }vre Eiker}{23}{subsubsection*.53}
+\contentsline {subsubsection}{Systemeatisk arbeid med midler fra helsedirektoratet}{23}{subsubsection*.54}
+\contentsline {subsubsection}{Psykolog i Kommunen(Nedre Eiker)}{24}{subsubsection*.55}
 \contentsline {section}{\numberline {6.2}Prosjektgruppens anbefalinger}{24}{section.6.2}
-\contentsline {section}{\numberline {6.3}S\IeC {\o }knad om midler til videre prosjekter}{24}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Midler til psykolog i kommunene}{24}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Midler til iverksetting av ROP tiltak}{24}{subsection.6.3.2}
+\contentsline {section}{\numberline {6.3}S\IeC {\o }knad om midler til videre prosjekter}{25}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Midler til psykolog i kommunene}{25}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Midler til iverksetting av ROP tiltak}{25}{subsection.6.3.2}
 \contentsline {subsection}{\numberline {6.3.3}Midler til oppf\IeC {\o }lging av ROP tiltak}{25}{subsection.6.3.3}
-\contentsline {chapter}{Kilder:}{26}{chapter*.55}
+\contentsline {chapter}{Kilder:}{26}{chapter*.56}
