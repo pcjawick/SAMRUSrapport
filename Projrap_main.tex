@@ -33,6 +33,8 @@
 \usepackage{afterpage}
 \usepackage{hyperref}
 \usepackage{xcolor}
+\usepackage{pdfpages}
+\usepackage{mdframed}
 
 %%% HEADERS & FOOTERS
 \usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
@@ -51,6 +53,12 @@
 \usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
 \renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
 \renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
+
+
+\mdfdefinestyle{mystyle}{
+    backgroundcolor=black!20
+}
+
 
 %%% END Article customizations
 
@@ -114,7 +122,7 @@ Mjøndalen\\
 
               \begin{abstract}
               \rule{\textwidth}{1pt}\\%horisontal linje
-                \paragraph{Skaffe en oversikt\\}
+               % \paragraph{Skaffe en oversikt\\} KArin korrektur
                   Prosjektet hadde som mål å få en oversikt over hvordan kommunene Nedre- og Øvre Eiker jobber i dag. Særlig fokus var samarbeidet med spesialisthelsetjenesten. Videre skulle vi se hvor skoen trykket; hvilke områder trenger oppmerksomhet. Dette blir veldig viktig når samhandlingsreformen slår inn i psykisk helse også. Dette oversiktsarbeidet skulle munne ut i å beskrive noen arbeidsmodeller eller beskrivelser. Dette skulle tjene som en mal å jobbe videre med. Følgende punkter er hentet fra prosjektbeskrivelsen\cite{ProPlan-1}.
 
               \begin{itemize}
@@ -126,8 +134,8 @@ Mjøndalen\\
                 \item Lage et system for systematisk å motta, bearbeide og videreformidle bekymringsmeldinger til rette instans
                 \item Tilpasse veilederen for internkontroll til driften i de respektive kommunale tjenester
               \end{itemize}
-                \paragraph{Vanskelig å få oversikten\\}
-                  Det lot seg ikke gjøre å gjennomføre alle hovedtiltakene innenfor prosjektperioden. Det skyldes at kartlegingsjobben var mye mer omfattende enn først antatt. Styringsgruppens mandat var vidt og fokuserte på å komme med en beskrivelsen av dagens system. Vi ser for oss at dette kan være verdifull informasjon å bygge tjenestene videre på. Det er enighet i gruppa om at utviklingsarbeid av tjenestene i dag har en liten plass i arbeidshverdagen og at det er et behov for å videreføre denne typen arbeid.\\
+                %\paragraph{Vanskelig å få oversikten\\}
+                  Det lot seg ikke gjøre å gjennomføre alle hovedtiltakene innenfor prosjektperioden. Det skyldes at kartlegingsjobben var mye mer omfattende enn først antatt. Styringsgruppens mandat var vidt og fokuserte på å komme med en beskrivelsen av dagens system. Vi ser for oss at dette kan være verdifull informasjon å bygge tjenestene videre på. Det er enighet i gruppa om at utviklingsarbeid av tjenestene i dag har en liten plass i arbeidshverdagen og at det er et behov for å videreføre denne typen arbeid. Å reprodusere resultatmål og hele prosjektbeskrivelsen her tjener ingen hensikt, men den er vedlagt i sin helthet som vedlegg på side \pageref{orig_pro_beskr}.\\
               \newpage
               Gruppen bestod av:\\
               \begin{itemize}
@@ -145,6 +153,7 @@ Mjøndalen\\
 
               \end{abstract}
 
+              \renewcommand{\partname}{Del}
               \renewcommand{\chaptername}{Del}
               \renewcommand{\contentsname}{Innhold}
               \renewcommand\listfigurename{Illustrasjoner}
@@ -164,7 +173,7 @@ Mjøndalen\\
                     Måten psykiatrien er organisert på er et bilde av hva som er godt med det kommunale helsetilbudet: Det er stor omsorg og evne til å løse vanskelige problemer med små ressurser\label{stor_vilje_til_hjelp}.\\
                     Fra helseforetakets side er stadige endringer med fokus på effektivisering, flytting og endring av ansvarsområder en stor utfordring. Både internt for helseforetaket og for kommunene som skal samarbeide med dem.\\
 
-                \section{Bakgrunn: Nasjonalt}\label{sec:ov_bakg}
+                \section{Bakgrunn: Nasjonalt og lokalt}\label{sec:ov_bakg}
                   \paragraph{Ikke stykkevis, men helt\\}
                     Som i mange andre prosjekter starter vi også her med Stortingsmelding nummer 47, Samhandlingsreformen
                     \cite{Stmld47}. Her skal bedre samhandling gi mer helhet for pasientene. Det er mange kritikkpunkter mot denne reformen; den er ikke testet, det finnes ikke tallgrunnlag eller forskning for at tiltakene skal hjelpe og flere andre grunner det ikke er rom for å nevne her.
@@ -180,12 +189,16 @@ Mjøndalen\\
                     Det har også de siste 40 årene vært en sterk nedbygging av statlig psykiatriske institusjoner, både nasjonalt og regionalt
                     \cite{SSButtrekk1}. Det er halvert antall heldøgnsplasser siden 1990. Disse pasientene bor nå i kommunene og skal ha tilbud herfra. 
 
+                
                   \begin{figure}[ht]
+                  \begin{mdframed}[style=mystyle]
                     \centering
-                    \includegraphics{./pix/heldgnpsykplass}
+                    \includegraphics[width=4.5in]{./pix/heldgnpsykplass}
                     \caption[Oversikt over reduksjon i \textit{heldøgnsplasser}.]
                      {Denne oversikten er basert på et uttrekk fra SSB \textit{heldøgnsplasser}. Det er en sterk reduksjon i disse plassene siden tidlig 90-tall. Det er vanskelig å forstille seg hvordan kommunen alene skal håndtere alle disse uten hjelp av innleggelser.}
+                  \end{mdframed}
                   \end{figure}
+             
                    \paragraph{Faglig overbygning\\}
                     Kommunene har ikke ansatt psykiatere og i liten grad ansatt psykologer. I våre to kommuner er det ingen ansatte psykologer eller leger i psykiatritjenesten. Pasientoppfølgningen utføres av sykepleiere med eller uten spesialisering i psykiatri i samarbeid med fastlegene.
                   \paragraph{Ansvarsplassering\\}
@@ -195,11 +208,11 @@ Mjøndalen\\
 
                 \chapter{Arbeidsmetode}\label{chap:meto}
                   \section{Møter}
-                    \paragraph{Konkret og saklig\\}
+                    %\paragraph{Konkret og saklig\\}
                       Møtene har vært strukturert rundt målene som ble angitt i prosjektbeskrivelsen. Det har vært møter omlag en gang i måneden. Vi ønsket å være konkrete og å se på hvilke områder som var viktigst for hverdagen\cite{ProPlan-1}.
-                    \paragraph{Fokus på det nåværende\\}
+                   % \paragraph{Fokus på det nåværende\\}
                       Det har vært lagt mest ressurser i kartlegging av den nåværende situasjonen. Det var viktig å forstå hvordan tjenestene fungerer sammen i dag for å kunne forbedre og endre dem.\\
-                    \paragraph{Skreddersøm\\}
+                   % \paragraph{Skreddersøm\\}
                       De første møtene ble brukt på kartlegging, men vi valgte også å bruke endel tid på praktiske eksempler. Det manglet ikke på praktiske erfaringer og løsninger i enkelttilfeller. 
                   \section{Kurs}
                     \paragraph{Påvirkning utenfra\\}
@@ -241,13 +254,13 @@ Mjøndalen\\
                       \end{itemize}
                     \subsubsection{Psykiatritjenesten}\label{sec:org_nek_psyk}  
                       \begin{itemize} 
-                        \item Jobber også mest ambulerende, men har også pasienter på kontoret. 
+                        \item Jobber ambulerende, men de fleste pasientene kommer til konsultasjon. 
                         \item Boliger og dagtilbud er underlagt psykiatritjenesten.
-                        \item Ungdomstilbud?
-                        \item KID kurs to ganger per år.
-                        \item Jobber med å utvikle et eget oppfølgingsteam for særlig behovskrevende brukere. 
+                        \item Ungdomstilbud har vært forsøkt men har fått liten respons
+                        \item KID kurs , angstmestringskurs og mestringsgruppe.
+                        \item Jobber med å utvikle et eget oppfølgingsteam for særlig behovskrevende brukere, gjerne sammen med rusteamet på NAV. 
                         \item Administrerer oppfølging med urinprøver av metadonbrukere. 
-                        \item Oppfølging fra DPS månedlig.
+                        \item Veiledning fra DPS månedlig.
                       \end{itemize}
                   
                       
@@ -257,7 +270,7 @@ Mjøndalen\\
                           \begin{itemize}
                             \item Tilbyr akutt psykisk intervensjon til pasienter med selvmordsrisiko\\
                             \item Kan kommme i hjemmebesøk\\
-                            \item Tar i mot henvising fra fastlege og kommunale psykiske helsetjenester\\
+                            \item Tar i mot henvising fra fastlege og kommunale psykiske helsetjenester, men dette er i teorien. I praksis er det kun fastlegene som har henvisningsrett.\\
                             \item Nylig reorganisert\\
                           \end{itemize} 
                         \subsubsection{Rehabteamet}\label{sec:org_ddps_rehab}
@@ -376,10 +389,12 @@ Mjøndalen\\
                     %Her begynner grafikken
 
                     \begin{figure}[ht]
+                      \begin{mdframed}[style=mystyle]
                       \centering
                       \includegraphics{./pix/kaotiskvei.jpg}%placeholder
                       \caption[Framstilling av tjenestetilbudene]%\textit{tjenestetilbudene}.]
                       {Det kan være et forvirrende landskap å orientere seg i. Ikke minst for pasienten.\cite{shutter}}
+                    \end{mdframed}
                     \end{figure}    
                       %Her slutter grafikken                  
                   \subsection{\nameref{sec:m_agr}s andre møte}\label{sec:agr_2}
@@ -485,10 +500,12 @@ Mjøndalen\\
                   \subsubsection{Samhandlingsteam Drammen-Lier og DPS}
                     Samhandlingsteamet er startet i oktober 2013. Det er delvis finansiert av Drammen DPS og omliggende kommuner. Det skal fylle en ACT- lignende rolle men ikke være bundet av den nokså rigide ACT-modellen. Drammen DPS har store forventinger knyttet til prosjektet.
                   \begin{figure}[h]
+                    \begin{mdframed}[style=mystyle]
                     \centering
                     \includegraphics[width=4.5in]{./pix/ordskysamrusv2}
                     \caption[Ordskyframstilling av denne \textit{rapporten}.]
                      {Denne framstillingen er en samling av ordene i denne rapporten. Størrelsen av ordene korrelerer med hyppigheten de forekommer i rapporten.}
+                  \end{mdframed}
                   \end{figure}
 
                   \subsubsection{Nytt prosjekt i regi av Kongsberg DPS, prosjektleder Sille Kvam}
@@ -535,7 +552,7 @@ Mjøndalen\\
                   Regjeringen Stoltenberg II
 
                 \bibitem{ProPlan-1}
-                  Prosjektbeskrivelse,
+                  Prosjektbeskrivelse, tilgjengelig som vedlegg side \pageref{orig_pro_beskr}
                   \emph{Helse- og Omsorgsseksjonene i Øvre- og Nedre Eiker}.
                   Styringsgruppen: Tor Erik Befring (\emph{Leder}), Lisbeth Nymo m. fl.
 
@@ -632,6 +649,12 @@ Mjøndalen\\
 
               \end{thebibliography}
 
-              \listoffigures
+                \listoffigures
+
+                \appendix
+                  \part*{Vedlegg}
+                  \chapter{Prosjektdirektivet}\label{orig_pro_beskr}
+
+                    \includepdf[pages={1,2,3,4}]{./apps/Prosjektplansamrus.pdf}
 
               \end{document}

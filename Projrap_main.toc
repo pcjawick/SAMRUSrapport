@@ -1,88 +1,84 @@
-\contentsline {paragraph}{Skaffe en oversikt\\}{1}{paragraph*.1}
-\contentsline {paragraph}{Vanskelig \IeC {\r a} f\IeC {\r a} oversikten\\}{1}{paragraph*.2}
 \contentsline {chapter}{\numberline {1}Oversikt og bakgrunn}{3}{chapter.1}
 \contentsline {section}{\numberline {1.1}Utfordringene}{3}{section.1.1}
-\contentsline {paragraph}{Ineffektvitet\\}{3}{paragraph*.4}
-\contentsline {paragraph}{Mye godhet, store oppgaver\\}{3}{paragraph*.5}
-\contentsline {section}{\numberline {1.2}Bakgrunn: Nasjonalt}{3}{section.1.2}
-\contentsline {paragraph}{Ikke stykkevis, men helt\\}{3}{paragraph*.6}
-\contentsline {paragraph}{Store faglige utfordringer\\}{4}{paragraph*.7}
-\contentsline {paragraph}{Uklare ansvarsomr\IeC {\r a}der\\}{4}{paragraph*.8}
-\contentsline {paragraph}{Alt er individuelt?\\}{4}{paragraph*.9}
-\contentsline {paragraph}{Engasjerte ansatte og sterk vekst\\}{4}{paragraph*.10}
-\contentsline {paragraph}{Utfordringer p\IeC {\r a} systemniv\IeC {\r a}\\}{4}{paragraph*.11}
-\contentsline {paragraph}{Faglig overbygning\\}{4}{paragraph*.13}
-\contentsline {paragraph}{Ansvarsplassering\\}{4}{paragraph*.14}
+\contentsline {paragraph}{Ineffektvitet\\}{3}{paragraph*.2}
+\contentsline {paragraph}{Mye godhet, store oppgaver\\}{3}{paragraph*.3}
+\contentsline {section}{\numberline {1.2}Bakgrunn: Nasjonalt og lokalt}{3}{section.1.2}
+\contentsline {paragraph}{Ikke stykkevis, men helt\\}{3}{paragraph*.4}
+\contentsline {paragraph}{Store faglige utfordringer\\}{4}{paragraph*.5}
+\contentsline {paragraph}{Uklare ansvarsomr\IeC {\r a}der\\}{4}{paragraph*.6}
+\contentsline {paragraph}{Alt er individuelt?\\}{4}{paragraph*.7}
+\contentsline {paragraph}{Engasjerte ansatte og sterk vekst\\}{4}{paragraph*.8}
+\contentsline {paragraph}{Utfordringer p\IeC {\r a} systemniv\IeC {\r a}\\}{4}{paragraph*.9}
+\contentsline {paragraph}{Faglig overbygning\\}{4}{paragraph*.11}
+\contentsline {paragraph}{Ansvarsplassering\\}{4}{paragraph*.12}
 \contentsline {chapter}{\numberline {2}Arbeidsmetode}{6}{chapter.2}
 \contentsline {section}{\numberline {2.1}M\IeC {\o }ter}{6}{section.2.1}
-\contentsline {paragraph}{Konkret og saklig\\}{6}{paragraph*.15}
-\contentsline {paragraph}{Fokus p\IeC {\r a} det n\IeC {\r a}v\IeC {\ae }rende\\}{6}{paragraph*.16}
-\contentsline {paragraph}{Skredders\IeC {\o }m\\}{6}{paragraph*.17}
 \contentsline {section}{\numberline {2.2}Kurs}{6}{section.2.2}
-\contentsline {paragraph}{P\IeC {\r a}virkning utenfra\\}{6}{paragraph*.18}
-\contentsline {paragraph}{Mer detaljert beskrivelse\\}{6}{paragraph*.19}
-\contentsline {chapter}{\numberline {3}Slik er organiseringen av tilbudet}{8}{chapter.3}
-\contentsline {section}{\numberline {3.1}Oversikt over tjenestene i kommunen:}{8}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}\IeC {\O }vre Eiker}{8}{subsection.3.1.1}
-\contentsline {subsubsection}{NAV}{8}{subsubsection*.20}
-\contentsline {subsubsection}{Rus- og Psykiatritjenesten}{8}{subsubsection*.21}
-\contentsline {subsection}{\numberline {3.1.2}Nedre Eiker}{9}{subsection.3.1.2}
-\contentsline {subsubsection}{NAV}{9}{subsubsection*.22}
-\contentsline {subsubsection}{Psykiatritjenesten}{9}{subsubsection*.23}
-\contentsline {section}{\numberline {3.2}Oversikt over tjenestene i Helseforetakene:}{10}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Drammen DPS}{10}{subsection.3.2.1}
-\contentsline {subsubsection}{Akuttteamet}{10}{subsubsection*.24}
-\contentsline {subsubsection}{Rehabteamet}{10}{subsubsection*.25}
-\contentsline {subsubsection}{ARA}{10}{subsubsection*.26}
-\contentsline {subsubsection}{Poliklinikken}{10}{subsubsection*.27}
-\contentsline {subsubsection}{Thorsberg}{11}{subsubsection*.28}
-\contentsline {subsubsection}{Lier}{11}{subsubsection*.29}
-\contentsline {subsubsection}{Samhandlingsteamet}{11}{subsubsection*.30}
-\contentsline {subsection}{\numberline {3.2.2}Kongsberg DPS}{11}{subsection.3.2.2}
-\contentsline {subsubsection}{Akuttandelingen?}{11}{subsubsection*.31}
-\contentsline {subsubsection}{Rehabteamet}{11}{subsubsection*.32}
-\contentsline {subsubsection}{Ruspoliklinikken}{12}{subsubsection*.33}
-\contentsline {subsubsection}{Poliklinikken}{12}{subsubsection*.34}
-\contentsline {subsubsection}{D\IeC {\o }gnposten}{12}{subsubsection*.35}
-\contentsline {subsubsection}{ACT-teamet}{12}{subsubsection*.36}
-\contentsline {chapter}{\numberline {4}M\IeC {\o }tene}{13}{chapter.4}
-\contentsline {section}{\numberline {4.1}M\IeC {\o }teformat og gjennomf\IeC {\o }ring}{13}{section.4.1}
-\contentsline {section}{\numberline {4.2}Oppsummering}{13}{section.4.2}
-\contentsline {section}{\numberline {4.3}Styringsgruppen}{13}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}\nameref {sec:m_stygr}s f\IeC {\o }rste m\IeC {\o }ter}{13}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}\nameref {sec:m_stygr}s andre m\IeC {\o }te}{14}{subsection.4.3.2}
-\contentsline {section}{\numberline {4.4}Arbeidsgruppen}{15}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}\nameref {sec:m_agr}s f\IeC {\o }rste m\IeC {\o }te}{15}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}\nameref {sec:m_agr}s andre m\IeC {\o }te}{15}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}\nameref {sec:m_agr}s tredje m\IeC {\o }te}{16}{subsection.4.4.3}
-\contentsline {subsubsection}{Forslag til kriterer:}{16}{subsubsection*.38}
-\contentsline {subsubsection}{Prioritering i kommunen}{17}{subsubsection*.39}
-\contentsline {subsection}{\numberline {4.4.4}\nameref {sec:m_agr}s fjerde m\IeC {\o }te}{18}{subsection.4.4.4}
-\contentsline {subsubsection}{Samhandlingsteamet i Drammen:}{18}{subsubsection*.40}
-\contentsline {subsubsection}{Fastlegenes rolle}{18}{subsubsection*.41}
-\contentsline {subsection}{\numberline {4.4.5}\nameref {sec:m_agr}s femte m\IeC {\o }te}{18}{subsection.4.4.5}
-\contentsline {subsubsection}{Forbedre ut fra dagens situasjon}{18}{subsubsection*.42}
-\contentsline {subsubsection}{Helhetlig pasientforl\IeC {\o }p}{19}{subsubsection*.43}
-\contentsline {subsubsection}{Velg \IeC {\'e}n ting...}{19}{subsubsection*.44}
-\contentsline {subsection}{\numberline {4.4.6}\nameref {sec:m_agr}s heldagsm\IeC {\o }te}{20}{subsection.4.4.6}
-\contentsline {chapter}{\numberline {5}Diskusjon}{21}{chapter.5}
-\contentsline {section}{\numberline {5.1}St\IeC {\o }rste utfordringer for oss per i dag}{21}{section.5.1}
-\contentsline {paragraph}{Tilfeldig skredders\IeC {\o }m\\}{21}{paragraph*.45}
-\contentsline {paragraph}{Frustrasjon\\}{21}{paragraph*.46}
-\contentsline {paragraph}{Sterk vekst\\}{21}{paragraph*.47}
-\contentsline {paragraph}{Ikke Praktisk\\}{22}{paragraph*.48}
-\contentsline {section}{\numberline {5.2}Forslag til l\IeC {\o }sninger}{22}{section.5.2}
-\contentsline {chapter}{\numberline {6}Veien videre}{23}{chapter.6}
-\contentsline {section}{\numberline {6.1}Forslag til konkrete prosjekter}{23}{section.6.1}
-\contentsline {subsubsection}{Checkware}{23}{subsubsection*.49}
-\contentsline {subsubsection}{Samhandlingsteam Drammen-Lier og DPS}{23}{subsubsection*.50}
-\contentsline {subsubsection}{Nytt prosjekt i regi av Kongsberg DPS, prosjektleder Sille Kvam}{23}{subsubsection*.52}
-\contentsline {subsubsection}{Boligsosialt arbeid i Nedre- og \IeC {\O }vre Eiker}{23}{subsubsection*.53}
-\contentsline {subsubsection}{Systemeatisk arbeid med midler fra helsedirektoratet}{23}{subsubsection*.54}
-\contentsline {subsubsection}{Psykolog i Kommunen(Nedre Eiker)}{24}{subsubsection*.55}
-\contentsline {section}{\numberline {6.2}Prosjektgruppens anbefalinger}{24}{section.6.2}
-\contentsline {section}{\numberline {6.3}S\IeC {\o }knad om midler til videre prosjekter}{25}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Midler til psykolog i kommunene}{25}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Midler til iverksetting av ROP tiltak}{25}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Midler til oppf\IeC {\o }lging av ROP tiltak}{25}{subsection.6.3.3}
-\contentsline {chapter}{Kilder:}{26}{chapter*.56}
+\contentsline {paragraph}{P\IeC {\r a}virkning utenfra\\}{6}{paragraph*.13}
+\contentsline {paragraph}{Mer detaljert beskrivelse\\}{6}{paragraph*.14}
+\contentsline {chapter}{\numberline {3}Slik er organiseringen av tilbudet}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Oversikt over tjenestene i kommunen:}{7}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}\IeC {\O }vre Eiker}{7}{subsection.3.1.1}
+\contentsline {subsubsection}{NAV}{7}{subsubsection*.15}
+\contentsline {subsubsection}{Rus- og Psykiatritjenesten}{7}{subsubsection*.16}
+\contentsline {subsection}{\numberline {3.1.2}Nedre Eiker}{8}{subsection.3.1.2}
+\contentsline {subsubsection}{NAV}{8}{subsubsection*.17}
+\contentsline {subsubsection}{Psykiatritjenesten}{8}{subsubsection*.18}
+\contentsline {section}{\numberline {3.2}Oversikt over tjenestene i Helseforetakene:}{9}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Drammen DPS}{9}{subsection.3.2.1}
+\contentsline {subsubsection}{Akuttteamet}{9}{subsubsection*.19}
+\contentsline {subsubsection}{Rehabteamet}{9}{subsubsection*.20}
+\contentsline {subsubsection}{ARA}{9}{subsubsection*.21}
+\contentsline {subsubsection}{Poliklinikken}{9}{subsubsection*.22}
+\contentsline {subsubsection}{Thorsberg}{10}{subsubsection*.23}
+\contentsline {subsubsection}{Lier}{10}{subsubsection*.24}
+\contentsline {subsubsection}{Samhandlingsteamet}{10}{subsubsection*.25}
+\contentsline {subsection}{\numberline {3.2.2}Kongsberg DPS}{10}{subsection.3.2.2}
+\contentsline {subsubsection}{Akuttandelingen?}{10}{subsubsection*.26}
+\contentsline {subsubsection}{Rehabteamet}{11}{subsubsection*.27}
+\contentsline {subsubsection}{Ruspoliklinikken}{11}{subsubsection*.28}
+\contentsline {subsubsection}{Poliklinikken}{11}{subsubsection*.29}
+\contentsline {subsubsection}{D\IeC {\o }gnposten}{11}{subsubsection*.30}
+\contentsline {subsubsection}{ACT-teamet}{11}{subsubsection*.31}
+\contentsline {chapter}{\numberline {4}M\IeC {\o }tene}{12}{chapter.4}
+\contentsline {section}{\numberline {4.1}M\IeC {\o }teformat og gjennomf\IeC {\o }ring}{12}{section.4.1}
+\contentsline {section}{\numberline {4.2}Oppsummering}{12}{section.4.2}
+\contentsline {section}{\numberline {4.3}Styringsgruppen}{12}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}\nameref {sec:m_stygr}s f\IeC {\o }rste m\IeC {\o }ter}{12}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}\nameref {sec:m_stygr}s andre m\IeC {\o }te}{13}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Arbeidsgruppen}{14}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}\nameref {sec:m_agr}s f\IeC {\o }rste m\IeC {\o }te}{14}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}\nameref {sec:m_agr}s andre m\IeC {\o }te}{14}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}\nameref {sec:m_agr}s tredje m\IeC {\o }te}{15}{subsection.4.4.3}
+\contentsline {subsubsection}{Forslag til kriterer:}{15}{subsubsection*.33}
+\contentsline {subsubsection}{Prioritering i kommunen}{17}{subsubsection*.34}
+\contentsline {subsection}{\numberline {4.4.4}\nameref {sec:m_agr}s fjerde m\IeC {\o }te}{17}{subsection.4.4.4}
+\contentsline {subsubsection}{Samhandlingsteamet i Drammen:}{17}{subsubsection*.35}
+\contentsline {subsubsection}{Fastlegenes rolle}{17}{subsubsection*.36}
+\contentsline {subsection}{\numberline {4.4.5}\nameref {sec:m_agr}s femte m\IeC {\o }te}{17}{subsection.4.4.5}
+\contentsline {subsubsection}{Forbedre ut fra dagens situasjon}{18}{subsubsection*.37}
+\contentsline {subsubsection}{Helhetlig pasientforl\IeC {\o }p}{18}{subsubsection*.38}
+\contentsline {subsubsection}{Velg \IeC {\'e}n ting...}{18}{subsubsection*.39}
+\contentsline {subsection}{\numberline {4.4.6}\nameref {sec:m_agr}s heldagsm\IeC {\o }te}{19}{subsection.4.4.6}
+\contentsline {chapter}{\numberline {5}Diskusjon}{20}{chapter.5}
+\contentsline {section}{\numberline {5.1}St\IeC {\o }rste utfordringer for oss per i dag}{20}{section.5.1}
+\contentsline {paragraph}{Tilfeldig skredders\IeC {\o }m\\}{20}{paragraph*.40}
+\contentsline {paragraph}{Frustrasjon\\}{20}{paragraph*.41}
+\contentsline {paragraph}{Sterk vekst\\}{20}{paragraph*.42}
+\contentsline {paragraph}{Ikke Praktisk\\}{21}{paragraph*.43}
+\contentsline {section}{\numberline {5.2}Forslag til l\IeC {\o }sninger}{21}{section.5.2}
+\contentsline {chapter}{\numberline {6}Veien videre}{22}{chapter.6}
+\contentsline {section}{\numberline {6.1}Forslag til konkrete prosjekter}{22}{section.6.1}
+\contentsline {subsubsection}{Checkware}{22}{subsubsection*.44}
+\contentsline {subsubsection}{Samhandlingsteam Drammen-Lier og DPS}{22}{subsubsection*.45}
+\contentsline {subsubsection}{Nytt prosjekt i regi av Kongsberg DPS, prosjektleder Sille Kvam}{22}{subsubsection*.47}
+\contentsline {subsubsection}{Boligsosialt arbeid i Nedre- og \IeC {\O }vre Eiker}{22}{subsubsection*.48}
+\contentsline {subsubsection}{Systemeatisk arbeid med midler fra helsedirektoratet}{22}{subsubsection*.49}
+\contentsline {subsubsection}{Psykolog i Kommunen(Nedre Eiker)}{23}{subsubsection*.50}
+\contentsline {section}{\numberline {6.2}Prosjektgruppens anbefalinger}{23}{section.6.2}
+\contentsline {section}{\numberline {6.3}S\IeC {\o }knad om midler til videre prosjekter}{24}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Midler til psykolog i kommunene}{24}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Midler til iverksetting av ROP tiltak}{24}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Midler til oppf\IeC {\o }lging av ROP tiltak}{24}{subsection.6.3.3}
+\contentsline {chapter}{Kilder:}{25}{chapter*.51}
+\contentsline {chapter}{\numberline {A}Prosjektdirektivet}{30}{appendix.A}
