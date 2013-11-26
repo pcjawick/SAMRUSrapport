@@ -69,7 +69,7 @@
 \contentsline {paragraph}{Tilfeldig skredders\IeC {\o }m\\}{20}{paragraph*.44}
 \contentsline {paragraph}{Frustrasjon\\}{20}{paragraph*.45}
 \contentsline {paragraph}{Sterk vekst\\}{20}{paragraph*.46}
-\contentsline {paragraph}{Ikke Praktisk\\}{21}{paragraph*.47}
+\contentsline {paragraph}{Ikke praktisk\\}{21}{paragraph*.47}
 \contentsline {section}{\numberline {5.2}Forslag til l\IeC {\o }sninger}{21}{section.5.2}
 \contentsline {chapter}{\numberline {6}Veien videre}{22}{chapter.6}
 \contentsline {section}{\numberline {6.1}Forslag til konkrete prosjekter}{22}{section.6.1}
